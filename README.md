@@ -10,7 +10,7 @@ BMI Calculator is a simple Flutter application that helps users calculate their 
 
 ## Screenshots
 
-![Screenshot 2](image.png)
+![Screenshot 2](img.jpeg)
 
 ## Installation
 
